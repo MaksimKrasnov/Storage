@@ -1,0 +1,43 @@
+@startuml
+
+package "Пользователи приложения" {
+  actor "Админ" as Adm
+  actor "Сотрудник" as Emp
+}
+
+
+package "Клиентское приложение" as CLIENT{
+  usecase "Вход в аккаунт" as I1
+  usecase "Выход из аккаунта" as I2
+  usecase "Зафиксировать продажу/покупку" as I3
+  usecase "Счет-фактура" as I4
+  usecase "Отчет" as I5
+  usecase "Управление аккаунтами сотрудников" as I6
+}
+package "Серверное приложение" as SERVER{
+  usecase "Получить запрос клиента" as T1
+  usecase "Обработать запрос клиента" as T2
+  usecase "Обратиться к БД" as T3
+  usecase "Получить ответ от БД" as T4
+  usecase "Отправить ответ клиенту" as T5
+}
+package "База данных" as BD{
+  usecase "Получить запрос" as U1
+  usecase "Обработать запрос" as U2
+  usecase "Произвести преобразования в БД" as U3
+}
+
+Emp --> I1 
+Emp --> I2 
+Emp --> I3 
+Emp --> I4 
+Emp --> I5 
+Adm --> I6
+ 
+CLIENT -up-> SERVER
+SERVER -down-> BD
+
+BD -down-> SERVER
+SERVER -up-> CLIENT
+
+@enduml

@@ -1,0 +1,361 @@
+C:\Study\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Study\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Study\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Study\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Study\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Study\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Study\Storage\Client\bin\Debug\Client.exe.config
+C:\Study\Storage\Client\bin\Debug\Client.exe
+C:\Study\Storage\Client\bin\Debug\Client.pdb
+C:\Study\Storage\Client\obj\Debug\Client.exe
+C:\Study\Storage\Client\obj\Debug\Client.pdb
+C:\Study\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Study\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Study\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Study\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Study\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Study\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Study\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Study\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Study\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Client.exe.config
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Client.exe
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Client.pdb
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.exe
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\bin\Debug\Client.exe.config
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\bin\Debug\Client.exe
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\bin\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.DealInfo.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.Form1.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.Guide.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.Reports.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.SellForm.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.SetUserForm.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.Suppliers.resources
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.exe
+F:\!Учеба\Командный проект\git\Marator2K07\Storage\Client\obj\Debug\Client.pdb
+D:\_=_\Командный проект\github\Storage\Client\bin\Debug\Client.exe.config
+D:\_=_\Командный проект\github\Storage\Client\bin\Debug\Client.exe
+D:\_=_\Командный проект\github\Storage\Client\bin\Debug\Client.pdb
+D:\_=_\Командный проект\github\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+D:\_=_\Командный проект\github\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.DealInfo.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.Form1.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.Guide.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.SellForm.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.SetUserForm.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.Suppliers.resources
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.exe
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.pdb
+D:\_=_\Командный проект\github\Storage\Client\obj\Debug\Client.Отчеты.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\bin\Debug\Client.exe.config
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\bin\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\bin\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\GIT\Storage\Client\obj\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\bin\Debug\Client.exe.config
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\bin\Debug\Client.exe
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\bin\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.DealInfo.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.Form1.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.Guide.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.Reports.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.SellForm.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.SetUserForm.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.Suppliers.resources
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.exe
+F:\!Учеба\Командный проект\git\23.05\Storage\Client\obj\Debug\Client.pdb
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Client.exe.config
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Client.exe
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Client.pdb
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.exe
+C:\Users\user2\Source\Repos\Marator2K07\Storage\Client\obj\Debug\Client.pdb
+C:\Study\Storage1\Storage\Client\bin\Debug\Client.exe.config
+C:\Study\Storage1\Storage\Client\bin\Debug\Client.exe
+C:\Study\Storage1\Storage\Client\bin\Debug\Client.pdb
+C:\Study\Storage1\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Study\Storage1\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.exe
+C:\Study\Storage1\Storage\Client\obj\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\bin\Debug\Client.exe.config
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\bin\Debug\Client.exe
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\bin\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.DealInfo.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.Form1.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.Guide.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.Reports.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.SellForm.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.SetUserForm.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.Suppliers.resources
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.exe
+F:\!Учеба\Командный проект\git\25,05-01,10\Storage\Client\obj\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\bin\Debug\Client.exe.config
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\bin\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\bin\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\github\25,05-17,35\Marator2K07\Storage\Client\obj\Debug\Client.pdb
+D:\_=_\Командный проект\github\25,05\Storage\Client\bin\Debug\Client.exe.config
+D:\_=_\Командный проект\github\25,05\Storage\Client\bin\Debug\Client.exe
+D:\_=_\Командный проект\github\25,05\Storage\Client\bin\Debug\Client.pdb
+D:\_=_\Командный проект\github\25,05\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+D:\_=_\Командный проект\github\25,05\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.DealInfo.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.Form1.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.Guide.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.Reports.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.SellForm.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.SetUserForm.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.Suppliers.resources
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.exe
+D:\_=_\Командный проект\github\25,05\Storage\Client\obj\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\bin\Debug\Client.exe.config
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\bin\Debug\Client.exe
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\bin\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.DealInfo.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.Form1.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.Guide.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.Reports.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.SellForm.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.SetUserForm.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.Suppliers.resources
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.exe
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.pdb
+F:\!Учеба\Командный проект\git\26,05-20,09\Marator2K07\Storage\Client\obj\Debug\Client.BuyForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\bin\Debug\Client.exe.config
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\bin\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\bin\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.BuyForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\bin\Debug\Client.exe.config
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\bin\Debug\Client.exe
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\bin\Debug\Client.pdb
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.BuyForm.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.DealInfo.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.Form1.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.Guide.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.Reports.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.SellForm.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.SetUserForm.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.Suppliers.resources
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.exe
+F:\!Учеба\Командный проект\27.05\Storage_rem\Storage\Client\obj\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\bin\Debug\Client.exe.config
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\bin\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\bin\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.BuyForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.Form1.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.SellForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.SetUserForm.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\29.05\Storage_last\Storage\Client\obj\Debug\Client.pdb
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\bin\Debug\Client.exe.config
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\bin\Debug\Client.exe
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\bin\Debug\Client.pdb
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.BuyForm.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.DealInfo.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Form1.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Guide.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Reports.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.SellForm.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.SetUserForm.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Suppliers.resources
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.exe
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\bin\Debug\Client.exe.config
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\bin\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\bin\Debug\Client.pdb
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.DealInfo.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Main.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Guide.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Reports.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Trade.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.SetUser.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.Suppliers.resources
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.exe
+C:\Новая папка\Новая папка (4)\Командный проект\30.05\Storage_30.05-02.40\Storage)29.5-17.45\Storage\Client\obj\Debug\Client.pdb
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\bin\Debug\Client.exe.config
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\bin\Debug\Client.exe
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\bin\Debug\Client.pdb
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.DealInfo.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.Main.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.Guide.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.Reports.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.Trade.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.SetUser.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.Suppliers.resources
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.exe
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Client\obj\Debug\Client.pdb

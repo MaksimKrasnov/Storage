@@ -1,0 +1,5 @@
+C:\Users\Dmitriy\Source\Repos\Marator2K07\Storage\Server\Server_Storage\x64\Debug\Server_Storage.exe
+C:\Users\Академия ШАГ\source\repos\Marator2K07\Storage\Server\Server_Storage\x64\Debug\Server_Storage.exe
+C:\Новая папка\Новая папка (4)\Командный проект\github\27.05-10.34\Storage\Server\Server_Storage\x64\Debug\Server_Storage.exe
+F:\!Учеба\Командный проект\29.05\Storage)29.5-17.45\Storage\Server\Server_Storage\x64\Debug\Server_Storage.exe
+C:\Users\Максим\Downloads\Storage-main (1)\Storage-main\Server\Server_Storage\x64\Debug\Server_Storage.exe

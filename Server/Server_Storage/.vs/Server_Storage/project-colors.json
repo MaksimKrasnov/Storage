@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38d84843-03f3-4178-a644-61c45d418c1b": {
+      "ProjectGuid": "38d84843-03f3-4178-a644-61c45d418c1b",
+      "DisplayName": "Server_Storage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

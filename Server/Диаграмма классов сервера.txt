@@ -1,0 +1,86 @@
+@startuml
+class Server_Storage{
+  {method} + intmain()
+}
+
+class WorkWithDatabase{
+--private fields--
+..Общие поля..
+  {field} - requestCodes : map<string, int>
+  {field} - charSize : static const int
+  {field} - connectionString[charSize] : CHAR
+..Поля для обработки ошибок..
+  {field} - SqlState[6] : SQLCHAR
+  {field} - Msg[SQL_MAX_MESSAGE_LENGTH] : SQLCHAR
+  {field} - NativeError : SQLINTEGER
+  {field} - i, MsgLen : SQLSMALLINT
+  {field} - returnCode : SQLRETURN
+  {field} - numRecs : SQLLEN
+..Поля для строковых потоков..
+  {field} - help : stringstream
+  {field} - helpAgain : stringstream
+..Поля под хэндлеры..
+  {field} - hEnv : HENV
+  {field} - hDbc : HDBC
+  {field} - hStmt : HSTMT
+  {field} - hIpd : SQLHDESC
+..Поля  для метода соединения..
+  {field} - szConnStrOut[charSize] : CHAR
+  {field} - iConnStrLength2Ptr : int
+..Поля для работы с таблицами данных..
+  {field} - rowCount : SQLINTEGER
+  {field} - fieldCount, currentField : SQLSMALLINT
+  {field} - buf[charSize], colName[charSize]: SQLCHAR
+  {field} - ret: SQLINTEGER
+..Поле для хранения кода ошибки..
+  {field} - rc: RETCODE
+..Поля для обратной связи с клиентом..
+  {field} - errorCode: SQLINTEGER*
+  {field} - answerInfo: vector<string>*
+  {field} - outputIntParameter: int*
+..Поля обработки параметров входящего запроса..
+  {field} - incomingLineParameters: vector<string>
+  {field} - delim: string
+  {field} - prev, next, delta: size_t
+--private methods--
+  {method} - bool GetParameters(string)
+  {method} - bool StringIsNumber(const string&)
+  {method} - void DisplayError(SQLSMALLINT, SQLHSTMT)
+  {method} - BOOL AllocateHandlers()
+  {method} - BOOL FreeHandlers()
+  {method} - void RememberTableAnswer()
+  {method} - BOOL MakeAndSendQuery(string)
+  {method} - BOOL CallStoredProcedure(int)
+--public methods--
+  {method} + vector<string>* MakeRequest(string)
+  {method} + void SetConnectionLine(string)
+  {method} + WorkWithDatabase()
+  {method} + ~WorkWithDatabase()
+}
+
+class UdpServer{
+--private fields--
+  {field} - socket : udp::socket
+  {field} - remoteEndpoint : udp::endpoint
+  {field} - recieverBuffer : boost::array  
+  {field} - strStream : stringstream
+  {field} - answerFromBD : vector<string>*
+  {field} - WWDb : WorkWithDatabase*
+--private methods--
+  {method} - string StrFromBuffer(boost::array, size_t)
+  {method} - void StartReceive()
+  {method} - void HandleReceive(error_code&, size_t)
+  {method} - void HandleSend(udp::endpoint, shared_ptr<std::string>,
+  error_code&, size_t)
+  {method} - void СomposeMessageAndSendToInFull(udp::endpoint,
+  vector<string>)
+  {method} - void СomposeMessageAndSendToInParts(udp::endpoint,
+  vector<string>) 
+  {method} - void PrintInfo(udp::endpoint, size_t, shared_ptr<std::string>)
+--public methods--
+  {method} + UdpServer(io_context&, string, int)
+}
+
+Server_Storage"функция" - UdpServer: управляет >
+UdpServer o-- WorkWithDatabase: содержит >
+@enduml

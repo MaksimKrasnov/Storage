@@ -1,0 +1,3 @@
+Server ip adress:127.0.0.1
+Server listen port:1024
+Database initialization string:Driver={SQL Server};SERVER=WIN-4SDKK0355TP\SQLEXPRESS;DATABASE=Store;
